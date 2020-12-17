@@ -6,6 +6,6 @@
 实例如下：  
 ```java
 public static void test(){
-  println("Hello Github");  
+  System.out.println("Hello Github");  
   }
   ```
